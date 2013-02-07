@@ -1,0 +1,15 @@
+/* my new bootstrap site */
+
+@import "bootstrap.scss";
+@import "responsive.scss";
+
+// import your unique less files as you build 
+
+@import "layout.scss"; 
+@import "theme.scss";
+@import "typography.scss";
+@import "misc.scss";  // mixins etc 
+
+header{
+	background: $blue;
+}
