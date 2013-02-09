@@ -1,3 +1,5 @@
+@import "compass";
+
 /* my new bootstrap site */
 
 @import "bootstrap.scss";
@@ -11,5 +13,5 @@
 @import "misc.scss";  // mixins etc 
 
 header{
-	background: $blue;
+	border: 0px solid $black;
 }
